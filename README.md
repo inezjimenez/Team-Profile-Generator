@@ -33,7 +33,7 @@ Once all third-party packages have been successfully installed, the application 
 
 ### Funtionality 
 To launch the application from the command line, navigate to the projects root directory and run ``` node index.js```
-The application begins prompting the user to begin describing the Manager by name, employee ID, thire email, and their office number. The user is then prompted to either add an Engineer, Intern, or complete the team profile. If an Engineer is added to the team, the user is prompted to enter their name, email and address, employee ID, and the school they attend. After their team is complete, the file is written to the dist folder and the user is able to tsee their creation. 
+The application begins prompting the user to begin describing the Manager by name, employee ID, their email, and office number. The user is then prompted to either add an Engineer, Intern, or complete the team profile. If an Engineer is added to the team, the user is prompted to enter their name, email address, employee ID, and the school they attend. After their team is complete, the file is written to the dist folder and the user is able to see their creation. 
 
 ### Project Demo
 
@@ -43,6 +43,6 @@ The application begins prompting the user to begin describing the Manager by nam
 * Project Refrence: https://github.com/GregPetropoulos/Team-Profile-Generator
 
 ### License 
-This project was created by Inez M. Jimenez as part of the curriculum for UT Asutin BootCamp.
-© 2022 Inez M. Jimenez
+This project was created by Inez M. Jimenez as part of the curriculum for UT Asutin BootCamp.<br>
+© 2022 Inez M. Jimenez<br>
 Licensed under the [MIT license](https://opensource.org/licenses/MIT).
