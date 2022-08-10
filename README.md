@@ -4,7 +4,6 @@ This application was created to generate a team of employees profiles bassed on 
 
 ## Table of Contents 
 
-* [Link to Website](#Link-to-Website)
 * [Installation](#Installation)
 * [Technologies](#Technologies)
 * [Funtionality](#Funtionality)
@@ -12,12 +11,9 @@ This application was created to generate a team of employees profiles bassed on 
 * [Credits](#Credits)
 * [License](#License)
 
-### Link to Website
-
 ### Installation
 The user should clone the repository from GitHub and download Node. 
-#### How to Download Node: 
-https://coding-boot-camp.github.io/full-stack/nodejs/how-to-install-nodejs
+#### How to Download Node: https://coding-boot-camp.github.io/full-stack/nodejs/how-to-install-nodejs<br>
 After installing Node, from the command line enter the following ```node i inquirer``` ```node i fs``` ```node i jest```
 Once all third-party packages have been successfully installed, the application is ready to use. 
 
@@ -43,6 +39,6 @@ The application begins prompting the user to begin describing the Manager by nam
 * Project Refrence: https://github.com/GregPetropoulos/Team-Profile-Generator
 
 ### License 
-This project was created by Inez M. Jimenez as part of the curriculum for UT Asutin BootCamp.<br>
-© 2022 Inez M. Jimenez<br>
-Licensed under the [MIT license](https://opensource.org/licenses/MIT).
+This project was created by Inez M. Jimenez as part of the curriculum for UT Austin BootCamp.<br>
+Licensed under the [MIT license](https://opensource.org/licenses/MIT).<br>
+© 2022 Inez M. Jimenez
