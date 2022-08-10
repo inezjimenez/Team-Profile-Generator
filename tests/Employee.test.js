@@ -8,7 +8,7 @@ test("Can create a new employee.", () => {
 test("Testing name.", () => {
     const name = "John";
     const employeeInstance = new Employee(name);
-    expect(typeof(employeeInstance.name).toBe(name);
+    expect(employeeInstance.name).toBe(name);
 })
 
 test("Testing ID.",() => {
@@ -47,6 +47,20 @@ test("Testing role.", () => {
     expect(employeeInstance.getRole()).toBe(returnValue);
 })
 
+
+// name
+
+// id
+
+// email
+
+// getName()
+
+// getId()
+
+// getEmail()
+
+// getRole() // Returns 'Employee'
 // const { exportAllDeclaration } = require("@babel/types");
 
 // const { default: test} = required{'node:test'};

@@ -1,13 +1,19 @@
-name
+const Intern = require("../lib/Intern");
 
-id
+test("Can set school.", () => {
+    const testSchool = "School Name";
+    const employeeInstance = new Intern("John", 2, "johndoe@yahoo.com", testSchool);
+    expect(employeeInstance.school).toBe(testSchool);
+});
 
-email
+test("Testing officeNumber will return office number.", () => {
+    const testSchool = "School Name";
+    const employeeInstance = new Intern("John", 2, "johndoe@yahoo.com", testSchool);
+    expect(employeeInstance.getSchool()).toBe(testSchool);
+});
 
-getName()
-
-getId()
-
-getEmail()
-
-getRole() // Returns 'Employee'
+test("Testing role.", () => {
+    const returnValue = "Intern";
+    const employeeInstance = new Intern("James", 2, "johndoe@yahoo.com", "School Name");
+    expect(employeeInstance.getRole()).toBe(returnValue);
+});
