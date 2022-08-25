@@ -21,9 +21,10 @@
   },
   "homepage": "https://github.com/inezjimenez/Team-Profile-Generator#readme",
   "devDependencies": {
-    "jest": "^28.1.2"
+    "jest": "^28.1.3"
   },
   "dependencies": {
+    "fs": "^0.0.1-security",
     "inquire": "^0.4.8",
     "inquirer": "^8.2.4"
   }
