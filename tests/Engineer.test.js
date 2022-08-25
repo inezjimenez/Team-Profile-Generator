@@ -15,5 +15,5 @@ test("Testing to get GitHub username via getGithub method.", () => {
 test("Testing role.", () => {
     const returnValue = "Engineer";
     const employeeInstance = new Engineer("John", 2, "johndoe@yahoo.com", "JohnDoe");
-    expect(employeeInstance.getRole()),toBe(returnValue);
+    expect(employeeInstance.getRole()).toBe(returnValue);
 });

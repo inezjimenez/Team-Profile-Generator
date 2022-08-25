@@ -1,6 +1,3 @@
-// import fs from 'fs'
-// import inquirer from 'inquirer'
-// import 
 
 //importing node modules
 const inquirer = require("inquirer");
