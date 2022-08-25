@@ -15,7 +15,7 @@ This application was created to generate a team of employees profiles bassed on 
 The user should clone the repository from GitHub and download Node. 
 #### How to Download Node: https://coding-boot-camp.github.io/full-stack/nodejs/how-to-install-nodejs<br>
 After installing Node, from the command line enter the following ```node i inquirer``` ```node i fs``` ```node i jest```
-Once all third-party packages have been successfully installed, the application is ready to use. 
+Once all third-party packages have been successfully installed, the application is ready to use. If you'd like to run tests, enter ```npm run jest``` from the command line.
 
 ### Technologies
 
