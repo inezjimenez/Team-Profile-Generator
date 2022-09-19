@@ -29,7 +29,10 @@ Once all third-party packages have been successfully installed, the application 
 
 ### Funtionality 
 To launch the application from the command line, navigate to the projects root directory and run ``` node index.js```
-The application begins prompting the user to begin describing the Manager by name, employee ID, their email, and office number. The user is then prompted to either add an Engineer, Intern, or complete the team profile. If an Engineer is added to the team, the user is prompted to enter their name, email address, employee ID, and the school they attend. After their team is complete, the file is written to the dist folder and the user is able to see their creation. 
+The application begins prompting the user to begin describing the Manager by name, employee ID, their email, and office number.<br>
+The user is then prompted to either add an Engineer, Intern, or complete the team profile. If an Engineer is added to the team,<br>
+the user is prompted to enter their name, email address, employee ID, and the school they attend. After their team is complete,<br>
+the file is written to the dist folder and the user is able to see their creation. 
 
 ### Project Demo
 
