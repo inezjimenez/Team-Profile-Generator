@@ -6,7 +6,7 @@ This application was created to generate a team of employees profiles bassed on 
 
 * [Installation](#Installation)
 * [Technologies](#Technologies)
-* [Funtionality](#Funtionality)
+* [Functionality](#Functionality)
 * [Project Demo](#Project-Demo)
 * [Credits](#Credits)
 * [License](#License)
