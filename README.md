@@ -27,7 +27,7 @@ Once all third-party packages have been successfully installed, the application 
 * HTML5
 * CSS3
 
-### Funtionality 
+### Functionality 
 To launch the application from the command line, navigate to the projects root directory and run ``` node index.js```
 The application begins prompting the user to begin describing the Manager by name, employee ID, their email, and office number.<br>
 The user is then prompted to either add an Engineer, Intern, or complete the team profile. If an Engineer is added to the team,<br>
