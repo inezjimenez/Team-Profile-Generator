@@ -35,6 +35,7 @@ the user is prompted to enter their name, email address, employee ID, and the sc
 the file is written to the dist folder and the user is able to see their creation. 
 
 ### Project Demo
+![Untitled_ Sep 21, 2022 11_09 PM](https://user-images.githubusercontent.com/102685046/191656820-a950aeae-396a-4924-bbe2-5f912409c733.gif)
 
 ### Credits
 * OOP: https://www.youtube.com/watch?v=SiBw7os-_zI&t=1087s
